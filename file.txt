@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+
 Here are my extra lines !!!!!! ARGH Dave :-)
-=======
 this is gareths edit to file.txt
->>>>>>> c9796cee2bc383cf89e747e4d8b432001eb7929e
